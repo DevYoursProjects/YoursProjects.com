@@ -1,1 +1,1 @@
-YoursProjects.com est un site créé par 2 développeurs d'origine francaise.
+YoursProjects.com est un site créé par 2 développeurs d'origine francaise. Le site consiste à partager vos projets web et à recruter des personnes pour vous aider dans votre conception!
